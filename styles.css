@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+/* Holder styling */
+.holder {
+  width: 100vw;           /* Full viewport width */
+  height: 100vh;          /* Full viewport height */
+  display: flex;          /* Enable flexbox */
+  justify-content: center;/* Horizontally center */
+  align-items: center;    /* Vertically center */
+}
+
+/* Item-1 styling */
+.item-1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
